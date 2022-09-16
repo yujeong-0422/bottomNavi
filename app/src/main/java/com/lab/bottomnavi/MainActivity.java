@@ -63,6 +63,7 @@ public class MainActivity extends AppCompatActivity {
         frag_info = new frag_info();
         frag_notification = new frag_notification();
         frag_setting = new frag_setting();
+
         setFrag(0);
 
     }
@@ -93,6 +94,8 @@ public class MainActivity extends AppCompatActivity {
 
         }
     }
+
+
 
 
 }
